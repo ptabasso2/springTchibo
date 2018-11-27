@@ -25,5 +25,5 @@ In another termnial window lauch the following command:
 This should normally display this type of lines:
 
 <figure>
-<img src="https://github.com/ptabasso2/springTchibo/Result.png" alt="Smiley face" style="height: 200px; width: auto; margin-left: 150px">
+<img src="https://github.com/ptabasso2/springTchibo/blob/master/Result.png" style="height: 200px; width: auto; margin-left: 150px">
 </figure>
