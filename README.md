@@ -8,7 +8,7 @@ COMP10619:$ <span style="font-weight: bold">./gradlew build</span>
 </code></pre></div></div>
 
 
-2/ Make sure the DD agent is running and listening on port 8126 
+2/ Make sure the DD agent is running and listening on port **8126** 
 
 3/ Start the server with agent instrumentation
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight" style="background-color: greydark;"><code style="font-size: 12.0px;">COMP10619:$ <span style="font-weight: bold">java -javaagent:./dd-java-agent-0.17.0.jar -jar build/libs/springtchibo-1.0.jar
