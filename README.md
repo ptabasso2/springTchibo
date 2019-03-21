@@ -1,6 +1,6 @@
 ### Setup
 
-1/ Cloning the repo and build 
+1/ Cloning the repo and build
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight" style="background-color: greydark;"><code style="font-size: 12.0px;">COMP10619:$ <span style="font-weight: bold">git clone https://github.com/ptabasso2/springTchibo.git</span>
 COMP10619:$ <span style="font-weight: bold">cd springTchibo</span>
@@ -17,7 +17,8 @@ COMP10619:$ <span style="font-weight: bold">./gradlew build</span>
 </code></pre></div></div>
 
 4/ Testing the application
-In another termnial window lauch the following command:
+
+In another termnial window launch the following command:
 
 <div class="highlight"><pre class="highlight" style="background-color: greydark;"><code style="font-size: 12.0px;">COMP10619:$ <span style="font-weight: bold">curl localhost:9393/ServiceC</span>
 </code></pre></div>
